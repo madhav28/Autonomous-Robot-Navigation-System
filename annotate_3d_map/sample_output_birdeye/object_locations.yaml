@@ -1,0 +1,169 @@
+objects:
+- class: bowl
+  label: bowl1
+  location:
+  - 598
+  - 156
+  object_id: 1
+- class: tv
+  label: tv1
+  location:
+  - 357
+  - 833
+  object_id: 1
+- class: tv
+  label: tv2
+  location:
+  - 96
+  - 386
+  object_id: 2
+- class: couch
+  label: couch1
+  location:
+  - 259
+  - 500
+  object_id: 1
+- class: chair
+  label: chair1
+  location:
+  - 465
+  - 179
+  object_id: 1
+- class: chair
+  label: chair2
+  location:
+  - 303
+  - 779
+  object_id: 2
+- class: chair
+  label: chair3
+  location:
+  - 590
+  - 601
+  object_id: 3
+- class: oven
+  label: oven1
+  location:
+  - 634
+  - 219
+  object_id: 1
+- class: remote
+  label: remote1
+  location:
+  - 292
+  - 313
+  object_id: 1
+- class: remote
+  label: remote2
+  location:
+  - 193
+  - 766
+  object_id: 2
+- class: fork
+  label: fork1
+  location:
+  - 591
+  - 132
+  object_id: 1
+- class: dining table
+  label: dining table1
+  location:
+  - 512
+  - 368
+  object_id: 1
+- class: mouse
+  label: mouse1
+  location:
+  - 307
+  - 858
+  object_id: 1
+- class: book
+  label: book1
+  location:
+  - 185
+  - 817
+  object_id: 1
+- class: book
+  label: book2
+  location:
+  - 182
+  - 274
+  object_id: 2
+- class: keyboard
+  label: keyboard1
+  location:
+  - 279
+  - 873
+  object_id: 1
+- class: keyboard
+  label: keyboard2
+  location:
+  - 341
+  - 839
+  object_id: 2
+- class: clock
+  label: clock1
+  location:
+  - 176
+  - 836
+  object_id: 1
+- class: spoon
+  label: spoon1
+  location:
+  - 590
+  - 130
+  object_id: 1
+- class: spoon
+  label: spoon2
+  location:
+  - 602
+  - 158
+  object_id: 2
+- class: refrigerator
+  label: refrigerator1
+  location:
+  - 620
+  - 321
+  object_id: 1
+- class: refrigerator
+  label: refrigerator2
+  location:
+  - 225
+  - 835
+  object_id: 2
+- class: bed
+  label: bed1
+  location:
+  - 399
+  - 682
+  object_id: 1
+- class: microwave
+  label: microwave1
+  location:
+  - 632
+  - 218
+  object_id: 1
+- class: microwave
+  label: microwave2
+  location:
+  - 621
+  - 211
+  object_id: 2
+- class: toaster
+  label: toaster1
+  location:
+  - 639
+  - 186
+  object_id: 1
+- class: sink
+  label: sink1
+  location:
+  - 798
+  - 624
+  object_id: 1
+- class: sink
+  label: sink2
+  location:
+  - 591
+  - 138
+  object_id: 2
