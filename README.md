@@ -61,4 +61,4 @@ The project is structured around the following objectives:
 - Created 2D occupancy grids from 3D point clouds for simplified spatial visualization.
 
 ### 7. Optimal Path Planning
-- **In Progress**: Pathfinding algorithm to compute the optimal path between points of interest.
+- Pathfinding algorithm to compute the optimal path between points of interest.
